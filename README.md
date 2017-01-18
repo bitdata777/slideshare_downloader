@@ -1,3 +1,6 @@
+shlideshare의 html을 파싱, 각 슬라이드(jpg)를 다운받아 PDF로 병합하여 slideshare의 제목으로 저장.
+
+
 ### 사용법
 
 - 첫번째 인자는 slideshare의 url 또는 url을 기록한 파일
@@ -17,5 +20,4 @@
 
 ### 할일
 
-shlideshare의 html을 파싱, 각 슬라이드(jpg)를 다운받아 PDF로 병합하여 lideshare의 제목으로 저장.
 코드 정리 필요
